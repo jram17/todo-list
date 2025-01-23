@@ -1,2 +1,2 @@
-# todo-list
-todo_list
+# ToDo -list application
+a basic todo list application  
